@@ -1,0 +1,35 @@
+{
+  "omelette": {
+    "name": "Tomato Omelette",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/tomato-omelette-recipe.jpg",
+    "ingredients": ["egg", "tomato", "onion"],
+    "steps": [
+      "Beat the eggs with salt and pepper.",
+      "Add chopped onion and tomato.",
+      "Pour mixture into a hot pan and cook both sides.",
+      "Serve hot with bread or chapati."
+    ]
+  },
+  "sandwich": {
+    "name": "Grilled Cheese Sandwich",
+    "image": "https://www.simplyrecipes.com/thmb/6DoT27DJy_i_9v0ajfscLk02fL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Grilled-Cheese-Sandwich-LEAD-4-46a5aeb14f7c4b7f9d6c3b61b82f0506.jpg",
+    "ingredients": ["bread", "cheese", "butter"],
+    "steps": [
+      "Spread butter on bread slices.",
+      "Place cheese between slices.",
+      "Grill on pan until golden brown.",
+      "Cut and serve warm."
+    ]
+  },
+  "pasta": {
+    "name": "Pasta Salad",
+    "image": "https://www.acouplecooks.com/wp-content/uploads/2021/05/Pasta-Salad-008.jpg",
+    "ingredients": ["pasta", "tomato", "cucumber", "olive oil"],
+    "steps": [
+      "Boil pasta and let it cool.",
+      "Chop tomato and cucumber.",
+      "Mix pasta with veggies, olive oil, salt, and pepper.",
+      "Serve chilled."
+    ]
+  }
+}
